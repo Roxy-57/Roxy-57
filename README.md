@@ -23,7 +23,8 @@
   <br/>
   
   ### Library
-  -아직 작성중...
+  -jQuery
+  -Numpy,matplotlib
   <br/>
   
   ### Framework
