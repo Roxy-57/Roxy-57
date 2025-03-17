@@ -20,10 +20,11 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <!--CSS-->
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-  c++
-   <img src="https://img.shields.io/badge/c-#A8B9CC?style=flat-square&logo=c&logoColor=white"/>
-  clang
+  <!--Clang-->
+   <img src="https://img.shields.io/badge/Clang-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
+    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
   <br/>
+
   
   ### Library
   -jQuery
