@@ -22,12 +22,14 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
   <!--Clang-->
    <img src="https://img.shields.io/badge/Clang-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
-    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+   <!--Cplusplus-->
+   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
   <br/>
 
   
   ### Library
   -jQuery
+   <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white"/>
   -Numpy,matplotlib
   <br/>
   
