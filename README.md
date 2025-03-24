@@ -8,6 +8,7 @@
   #### :fire: 저는 C++개발자를 목표로 하고있습니다.<br/>
   #### :mortar_board: c++ 공부중 
   웹 개발을 공부중입니다.
+  <!--c# 관련 내용-->
   <br/>
   <br/>
   
@@ -25,7 +26,7 @@
    <img src="https://img.shields.io/badge/Clang-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
    <!--Cplusplus-->
    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-   타입 스크립트
+   타입 스크립트 ,C#
   <br/>
 
   
