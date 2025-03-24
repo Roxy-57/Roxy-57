@@ -23,6 +23,9 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
   <!--JavaScript-->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+   <!--TypeScript-->
+  <img src="https://img.shields.io/badge/TypeScript-F7DF1E?style=flat-square&logo=TypeScript&logoColor=white"/>
+   
   </div>
   <div>
    <!--Clang-->
@@ -30,7 +33,7 @@
    <!--Cplusplus-->
    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
    </div>
-   타입 스크립트 ,C#
+    C#
   <br/>
 
   
