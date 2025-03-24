@@ -24,10 +24,12 @@
   <!--JavaScript-->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
   </div>
+  <div>
    <!--Clang-->
    <img src="https://img.shields.io/badge/Clang-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
    <!--Cplusplus-->
    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+   </div>
    타입 스크립트 ,C#
   <br/>
 
