@@ -32,8 +32,9 @@
    <img src="https://img.shields.io/badge/Clang-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
    <!--Cplusplus-->
    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-   </div>
-    C#
+    <img src="https://img.shields.io/badge/CShap-512BD4?style=flat-square&logo=dotnet&logoColor=white"/> 
+  </div>
+    
   <br/>
 
   
