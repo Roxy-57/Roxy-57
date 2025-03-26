@@ -44,6 +44,7 @@
   <!--NumPy-->
    <img src="https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white"/>
   -matplotlib
+  OpenGL
   <br/>
   
   ### Framework
