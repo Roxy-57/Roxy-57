@@ -43,8 +43,9 @@
    <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white"/>
   <!--NumPy-->
    <img src="https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-  -matplotlib
+  -matplotlib 
   OpenGL
+  MFC
   <br/>
   
   ### Framework
