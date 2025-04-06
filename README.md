@@ -46,7 +46,7 @@
   -matplotlib 
   OpenGL
   MFC
-  axios
+     <img src="https://img.shields.io/badge/axios-5A29E4?style=flat-square&logo=axios&logoColor=white"/>
   <br/>
   
   ### Framework
